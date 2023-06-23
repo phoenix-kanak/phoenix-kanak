@@ -1,4 +1,4 @@
-![Masterhead](https://sam.hope-evans.com/content/images/2021/11/github-social-banner-1200x369.png)
+![Masterhead](https://marketsplash.com/content/images/2023/05/MarketSplash-GRAPHIC-DESIGN-AND-UX-03-1.jpg)
 <h1 align="center">Hi 👋, I'm Kanak Goel</h1>
 <h3 align="center">A passionate problem solver and a member of Google Developer Students Club</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/0*yBvA5CnEX3Sd4aod.gif">
