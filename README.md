@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **sgoel1068@gmail.com**
 
-- ⚡ Fun fact **Google's Android mascot unofficially known as bugdroid.**
+- ⚡ Fun fact **Google's Android mascot is unofficially known as bugdroid.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
