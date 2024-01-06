@@ -2,6 +2,9 @@
 <h1 align="center">Hi 👋, I'm Kanak Goel</h1>
 <h3 align="center">A passionate problem solver and a member of Google Developer Students Club</h3>
 
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/0*yBvA5CnEX3Sd4aod.gif">
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phoenix-kanak&label=Profile%20views&color=0e75b6&style=flat" alt="phoenix-kanak" /> </p>
 
 - 🌱 I’m currently learning **DSA and Android dev in Kotlin.**
